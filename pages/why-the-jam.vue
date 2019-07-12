@@ -25,7 +25,8 @@
           <p>Loose coupling and separation of controls allow for more targeted development and debugging, and the expanding selection of CMS options for site generators remove the need to maintain a separate stack for content and marketing.</p>
         </div>
       </div>
-      
     </div>
+
+    <p class="text-sm absolute bottom-0 left-0 ml-2 mb-2">Source: https://jamstack.org/</p>
 </slide>
 </template>
