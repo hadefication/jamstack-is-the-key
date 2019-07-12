@@ -1,5 +1,5 @@
 <template>
-  <slide class="bg-gray-200 px-8 py-4">
+  <slide class="bg-gray-200 px-8 py-4" prev="/fin">
     <h1 class="text-100"><span class="underline">Links</span> and <span class="line-through">shit</span></h1>
     <ul class="text-4xl">
       <li 
